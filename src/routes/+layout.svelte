@@ -1,6 +1,7 @@
 <script>
   import Footer from "$lib/components/Footer.svelte";
-	import Navbar from "$lib/components/Navbar.svelte";
+  //@ts-ignore
+	import Navbar from "$lib/components/navbar.svelte";
   import "../app.css";
 </script>
 
