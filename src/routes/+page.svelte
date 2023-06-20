@@ -8,9 +8,9 @@
   </title>
 </svelte:head>
 
-<div class=" w-full h-full ">
+<div class=" w-full h-3/4 ">
   <!-- center  -->
-  <div class=" w-full h-fit px-[100px] py-[50px] flex items-center  ">
+  <div class=" w-full px-[100px] py-[50px] flex items-center  ">
     <!-- image and border back  -->
     <div class=" w-3/5 h-fit flex justify-center items-center ">
       <div class=" w-[400px] h-[540px] relative ">
