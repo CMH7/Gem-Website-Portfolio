@@ -1,6 +1,7 @@
 <script>
 	import Footer from "../lib/components/Footer.svelte";
 	import Navbar from "../lib/components/navbar.svelte";
+	import { current_page } from "../stores/global";
 </script>
 
 <svelte:head>
@@ -43,7 +44,7 @@
         <!-- about me button -->
         <div class=" absolute w-full flex justify-end items-center -bottom-[200px] ">
 
-          <a href="/aboutme" class=" group ">
+          <a on:click={() => current_page.set('aboutme')} href="/aboutme" class=" group ">
             <div class=" flex justify-center items-center ">
               <p class=" raleway font-[500] text-[30px] leading-[60px] mr-[33px] group-hover:mr-[20px] transition-all ">
                 About me
