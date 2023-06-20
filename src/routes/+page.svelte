@@ -3,6 +3,12 @@
 	import Navbar from "../lib/components/navbar.svelte";
 </script>
 
+<svelte:head>
+  <title>
+    Gemarie UI/UX Desinger
+  </title>
+</svelte:head>
+
 
 <div class=" w-full h-full ">
   <Navbar />

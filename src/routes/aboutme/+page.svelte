@@ -3,6 +3,11 @@
 
 </script>
 
+<svelte:head>
+  <title>
+    About Gemarie
+  </title>
+</svelte:head>
 
 <div class=' w-full h-full '>
   <Navbar/>
