@@ -1,0 +1,13 @@
+<script>
+	import Navbar from "../../lib/components/navbar.svelte";
+
+</script>
+
+
+<div class=' w-full h-full '>
+  <Navbar/>
+
+  <div>
+    ABOUT ME
+  </div>
+</div>

@@ -1,3 +1,8 @@
-<h1 class="text-3xl font-bold underline archivo ">
-  Hello world!
-</h1>
+<script>
+	import Navbar from "../lib/components/navbar.svelte";
+</script>
+
+
+<div class=" w-full h-full ">
+  <Navbar />
+</div>
