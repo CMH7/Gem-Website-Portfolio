@@ -1,5 +1,6 @@
 <script>
 	import Footer from "../lib/components/Footer.svelte";
+	// @ts-ignore
 	import Navbar from "../lib/components/navbar.svelte";
 	import { current_page } from "../stores/global";
 </script>

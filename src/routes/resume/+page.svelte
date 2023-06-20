@@ -1,4 +1,5 @@
 <script>
+	// @ts-ignore
 	import Navbar from "../../lib/components/navbar.svelte";
 
 </script>
