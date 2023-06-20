@@ -6,6 +6,9 @@ export default {
 			colors: {
 				'orchid': '#7F867B',
 				'orchid-dark': '#40433e',
+				'coffee-white': '#AF9F8C',
+				'coffee': '#585046',
+				'coffee-dark': '#23201c'
 			}
 		}
 	},
