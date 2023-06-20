@@ -1,4 +1,4 @@
-<div class=" w-full flex justify-between items-center pt-[70px] ">
+<div class=" w-full flex justify-between items-center ">
   <p class=" raleway font-[500] text-[20px] leading-[40px] ">
     magtangobgemarie@gmail.com
   </p>

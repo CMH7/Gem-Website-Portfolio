@@ -1,7 +1,4 @@
 <script>
-	import Footer from "../lib/components/Footer.svelte";
-	// @ts-ignore
-	import Navbar from "../lib/components/navbar.svelte";
 	import { current_page } from "../stores/global";
 </script>
 
@@ -11,10 +8,7 @@
   </title>
 </svelte:head>
 
-
 <div class=" w-full h-full ">
-  <Navbar />
-
   <!-- center  -->
   <div class=" w-full h-fit px-[100px] py-[50px] flex items-center  ">
     <!-- image and border back  -->
@@ -61,6 +55,4 @@
       </div>
     </div>
   </div>
-
-  <Footer />
 </div>

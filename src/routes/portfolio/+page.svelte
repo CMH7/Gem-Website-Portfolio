@@ -1,9 +1,3 @@
-<script>
-	// @ts-ignore
-	import Navbar from "../../lib/components/navbar.svelte";
-
-</script>
-
 <svelte:head>
   <title>
     Gemarie's Portfolio
@@ -12,8 +6,6 @@
 
 
 <div class=' w-full h-full '>
-  <Navbar/>
-
   <div>
     PORTFOLIO
   </div>
