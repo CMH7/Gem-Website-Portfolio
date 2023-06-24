@@ -5,7 +5,7 @@
   import "../app.css";
 </script>
 
-<div class="bg-white w-screen h-screen px-[50px] pb-[20px] transition-all overflow-x-hidden ">
+<div class="bg-white w-screen h-screen p-[50px] transition-all flex flex-col justify-between overflow-x-hidden ">
   <Navbar />
   <slot/>
   <Footer />
