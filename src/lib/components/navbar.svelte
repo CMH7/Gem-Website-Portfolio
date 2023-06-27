@@ -2,7 +2,7 @@
   import { current_page } from "../../stores/global";
 </script>
 
-<div class=' px-[50px] w-full flex justify-between items-center '>
+<div class=' px-[50px] w-full flex justify-between items-center mb-[50px] '>
   <a on:click={() => current_page.set('')} href="/">
     <h1 class=" hover:text-orchid-dark text-[45px] text-orchid transition-all font-[400] archivo ">
       GM.

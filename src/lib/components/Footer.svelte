@@ -1,5 +1,5 @@
-<div class=" w-full flex justify-between items-center px-[50px] mt-5 ">
-  <p class=" raleway font-[500] text-[20px] leading-[40px] ">
+<div class=" w-full flex justify-between items-center px-[50px] mt-20 ">
+  <p class=" raleway font-normal text-[20px] leading-[40px] ">
     magtangobgemarie@gmail.com
   </p>
 
