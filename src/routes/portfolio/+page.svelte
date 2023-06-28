@@ -34,10 +34,6 @@
 
   <Showcase right={true} title={'Backbone Creatives'} description={'A website that offers digital marketing and designing.'} link={'https://www.figma.com/proto/6NhMvxyCjN1IFEjDWzkR0m/Backbone?type=design&node-id=1-2&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&hide-ui=1'} image={'laptopbackbone.png'} />
   
-  <Showcase right={false} title={'Colloquium Posters'} description={'A poster for countdown and name of presenters.'} link={'/'} image={'colloquiumposters.png'} />
+  <Showcase right={false} title={'Colloquium Posters'} description={'A poster for countdown and name of presenters.'} link={'https://drive.google.com/drive/folders/1ktRLMglnb_lRj2FoH6XZ3OLRRLSM_9kd?usp=drive_link'} image={'colloquiumposters.png'} />
 
-  <div class=" w-full flex justify-between mt-[60px] ">
-    <HeaderButton data={{title: 'About me', link: 'aboutme'}} inverted={true} />
-    <HeaderButton data={{title: 'Resume', link: 'resume'}} />
-  </div>
 </div>

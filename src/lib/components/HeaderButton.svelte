@@ -15,8 +15,8 @@
       {data.title}
     </p>
 
-    <div class=" group-hover:bg-coffee-white transition-all rounded-full flex justify-center items-center w-[80px] h-[80px] border-[2px] border-black ">
-      <img class=" {inverted ? '-scale-100' : ''} " src="right-arrow.png" alt="arrow icon">
+    <div class=" group-hover:bg-coffee-white transition-all rounded-full flex justify-center items-center w-[80px] h-[80px] border border-black ">
+      <img class=" {inverted ? '-scale-100' : ''} w-[25px] " src="right-arrow.png" alt="arrow icon">
     </div>
   </div>
 </a>

@@ -82,9 +82,4 @@
     </div>
   </div>
 
-  <div class=" w-full flex justify-between mt-[60px] ">
-    <HeaderButton data={{title: 'Home', link: ''}} inverted={true} />
-    <HeaderButton data={{title: 'Portfolio', link: 'portfolio'}} />
-  </div>
-
 </div>

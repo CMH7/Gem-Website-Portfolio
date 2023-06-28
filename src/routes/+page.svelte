@@ -30,10 +30,6 @@
           <span class=" text-8xl text-black ">
             Gemarie
           </span>
-          <br>
-          <span class=" text-6xl text-black ">
-            Magtangob
-          </span>
         </p>
         
         <p class=" archivo font-[400] text-[50px] leading-tight text-coffee-white mt-[8px] ">
