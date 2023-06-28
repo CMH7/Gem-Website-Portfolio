@@ -39,11 +39,6 @@
         <p class=" raleway font-[500] text-[20px] leading-[40px] w-[500px] mt-[30px] ">
           I started to enjoy designing because it makes me think, widen my skills and creativity.
         </p>
-
-        <!-- about me button -->
-        <div class=" w-full flex justify-end items-center ">
-          <HeaderButton data={{link: 'aboutme', title: 'About me'}} inverted={false} />
-        </div>
       </div>
     </div>
   </div>
