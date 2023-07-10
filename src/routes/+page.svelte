@@ -10,9 +10,9 @@
 
 <div class=" w-full h-fit ">
   <!-- center  -->
-  <div class=" w-full px-[100px] py-[50px] flex items-center  ">
+  <div class=" w-full px-0 lg:px-[100px] py-[50px] flex items-center flex-wrap lg:flex-nowrap  ">
     <!-- image and border back  -->
-    <div class=" w-3/5 h-fit flex justify-center items-center ">
+    <div class=" w-full lg:w-3/5 h-fit flex justify-center items-center ">
       <div class=" w-[400px] h-[540px] relative ">
         <img class=" w-full h-full rounded-bl-[100px] rounded-tr-[100px] absolute z-10 " src="gem1.jpg" alt="Gemarie pic">
   
